@@ -55,3 +55,10 @@ Visit [http://localhost:8000/api/v1](http://localhost:8000/api/v1) in your brows
 
 ## License
 MIT
+
+## Development
+In progress...
+
+```author
+Elkanah Kindness .M
+```
